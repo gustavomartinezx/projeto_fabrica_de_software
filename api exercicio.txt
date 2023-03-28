@@ -1,0 +1,17 @@
+bulbasauro 
+nome : Bulbasaur
+Tipo : grass / poison
+Habilidades : overgrow / chlorophyll
+Evolução : Venusaur / Ivysaur / Bulbasaur
+
+Caterpie 
+Nome :  Caterpie
+Tipo : bug
+Habilidades : run-away / shield-dust
+Evolução : butterfree / metapod / caterpie
+
+Mewtwo
+Nome :  Mewtwo
+Tipo : psychic
+Habilidades : Pressure \ unnerve
+Evolução : -
