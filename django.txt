@@ -1,0 +1,26 @@
+manage.py
+ele gerencia o projeto, executando funções
+makeimigrations -> orn mapeamento do objeto para criação de códigos que faltam
+migrate -> migra para o banco de dados
+startapp -> microserviço dentro de um grande serviço
+
+models.py
+representação do objeto no banco de dados, diferenciando pela sua características
+
+serializers.py
+pegar um objeto json e trasnforma=lo em um objeto(modelo) de dados python e vice versa  (tipo um tradutor)
+
+views.py
+onde fica a funções ou classes quando acessa uma url
+é onde os dados são alocados pelas requisições e envio de dados
+
+url
+onde se registra a url do serviço
+
+settins.py
+configurações do sistema
+middlewares - intermedita 
+insomnia
+django
+python
+git
