@@ -1,0 +1,17 @@
+python -m venv venv
+.\venv\Scripts\activate 
+python bin/activate
+pip install django / djangorestframework
+django-admin startproject nome_do_projeto .	
+django-admin startproject todo_list
+python manage.py startapp nome_do_app -> cria a pasta do seu serviço
+
+vai no settins.py e adiciona 
+"rest_framework",
+'app',
+
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope LocalMachine 
+
+
+class ToDo (models.Model):
+	atividade = 
