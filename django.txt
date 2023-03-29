@@ -24,3 +24,5 @@ insomnia
 django
 python
 git
+
+settings explica os programas que irá se utilizar

@@ -1,0 +1,10 @@
+python -m venv venv
+.\venv\Scripts\activate 
+python bin/activate
+pip install django / djangorestframework
+django-admin startproject nome_do_projeto .	
+
+Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope LocalMachine
+
+
+python mangae.py startapp nome_do_app -> cria a pasta do seu serviço
